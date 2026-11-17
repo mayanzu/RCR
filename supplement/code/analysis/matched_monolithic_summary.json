@@ -1,0 +1,80 @@
+{
+  "coupled_primary": {
+    "streams": 30,
+    "snapshots": 1911,
+    "rcr_mean_value_pct": 93.6239811252552,
+    "rcr_mean_plan_s": 11.392139913333144,
+    "lbbd_mean_ms": 26.607903453686593,
+    "lbbd_timeout_rate": 0.02197802197802198,
+    "lbbd_mean_vars": 55.93249607535322,
+    "lbbd_mean_rows": 24.08843537414966,
+    "mono_prefix_only": {
+      "timeout_rate": 0.6028257456828885,
+      "mean_total_ms": 72.09064385138747,
+      "mean_build_ms": 1.4555321821080105,
+      "mean_solve_ms": 70.63511166927947,
+      "mean_vars": 172.89481946624804,
+      "mean_rows": 255.16117216117217
+    },
+    "mono_eq6": {
+      "timeout_rate": 0.608058608058608,
+      "mean_total_ms": 72.33617357405319,
+      "mean_build_ms": 3.2070130821641496,
+      "mean_solve_ms": 69.12916049188904,
+      "mean_vars": 172.89481946624804,
+      "mean_rows": 265.2632129774987
+    }
+  },
+  "edge_dominant": {
+    "streams": 30,
+    "snapshots": 3256,
+    "rcr_mean_value_pct": 74.48429520656319,
+    "rcr_mean_plan_s": 17.754770443333896,
+    "lbbd_mean_ms": 30.143507063877546,
+    "lbbd_timeout_rate": 0.012592137592137592,
+    "lbbd_mean_vars": 50.147113022113025,
+    "lbbd_mean_rows": 28.70085995085995,
+    "mono_prefix_only": {
+      "timeout_rate": 0.3823710073710074,
+      "mean_total_ms": 62.57389471744755,
+      "mean_build_ms": 1.3250970515988403,
+      "mean_solve_ms": 61.24879766584871,
+      "mean_vars": 149.98832923832924,
+      "mean_rows": 221.6808968058968
+    },
+    "mono_eq6": {
+      "timeout_rate": 0.398955773955774,
+      "mean_total_ms": 63.7187860872239,
+      "mean_build_ms": 2.9104239864865886,
+      "mean_solve_ms": 60.80836210073731,
+      "mean_vars": 149.98832923832924,
+      "mean_rows": 234.76658476658477
+    }
+  },
+  "tighter_deadlines": {
+    "streams": 30,
+    "snapshots": 1271,
+    "rcr_mean_value_pct": 69.01223373692326,
+    "rcr_mean_plan_s": 1.364465980000356,
+    "lbbd_mean_ms": 7.838456333599426,
+    "lbbd_timeout_rate": 0.0,
+    "lbbd_mean_vars": 17.980330448465775,
+    "lbbd_mean_rows": 19.60582218725413,
+    "mono_prefix_only": {
+      "timeout_rate": 0.0,
+      "mean_total_ms": 9.528289614479446,
+      "mean_build_ms": 0.35083178599489406,
+      "mean_solve_ms": 9.177457828484552,
+      "mean_vars": 39.03776553894571,
+      "mean_rows": 61.41542092840283
+    },
+    "mono_eq6": {
+      "timeout_rate": 0.0,
+      "mean_total_ms": 9.652663886697566,
+      "mean_build_ms": 0.4978557828449524,
+      "mean_solve_ms": 9.154808103852613,
+      "mean_vars": 39.03776553894571,
+      "mean_rows": 65.03697875688434
+    }
+  }
+}

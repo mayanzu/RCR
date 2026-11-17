@@ -1,0 +1,14 @@
+{
+  "post_hoc": true,
+  "reference_original_family": 40,
+  "reference_split": [
+    10,
+    30
+  ],
+  "hefei_full_family": 12,
+  "hefei_density_sensitivity_family": 3,
+  "cross_family_error_control": "not claimed",
+  "hefei_differences": "exact rational completed_value / total_value",
+  "grid_csv_sha256": "5e422885f37e153e2a99a962180c37dce40227d15826e50979d2b8cf5c0925b1",
+  "hefei_csv_sha256": "63eaae81e6421b39415715a9ecbac09a4623b039cacbcfd2c1484be3c953db1b"
+}

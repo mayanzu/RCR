@@ -1,0 +1,11 @@
+{
+  "retrieved_utc": "2026-11-12T11:55:26.732630+00:00",
+  "http_date": "Thu, 12 Nov 2026 11:54:50 GMT",
+  "endpoint": "https://api.openstreetmap.org/api/0.6/map",
+  "query": "bbox=117.21499999999999%2C31.805%2C117.265%2C31.852",
+  "raw_osm_sha256": "c0ceb5927d021e03893eec4cb94efadac31c4942c26e74bf2b8f5881bfd81668",
+  "bytes": 6871786,
+  "source": "OpenStreetMap contributors",
+  "license": "ODbL-1.0",
+  "license_url": "https://www.openstreetmap.org/copyright"
+}

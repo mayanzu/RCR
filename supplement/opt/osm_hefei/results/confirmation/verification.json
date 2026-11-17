@@ -1,0 +1,11 @@
+{
+  "stage": "confirmation",
+  "episodes": 450,
+  "plan_checks": 80011,
+  "valid_continuation_checks": 15852,
+  "mean_cells": 15,
+  "paired_comparisons": 12,
+  "evidence_fingerprint": "6f2541f126b3cf68a913ba78bd76ea5f55895c3e18db51ea911f305c3cdaf198",
+  "analysis_sha256": "e96bad4cee23f540fb44e3de952fd99cbd3a2467d0136cf143689ee1fbe3130d",
+  "result": "PASS"
+}

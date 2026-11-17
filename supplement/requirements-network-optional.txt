@@ -1,0 +1,8 @@
+# Optional only: rebuild or plot the road network.
+# The archived graph reports these OSMnx and NetworkX versions.
+# Original pyproj and matplotlib versions were not recorded.
+-r ../requirements.txt
+networkx==3.6.1
+osmnx==2.1.1
+pyproj
+matplotlib

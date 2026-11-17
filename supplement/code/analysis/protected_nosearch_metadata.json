@@ -1,0 +1,32 @@
+{
+  "grid_rank_percent_decimals": 4,
+  "hefei_rank_percent_decimals": 10,
+  "inference": "raw two-sided conditional exact signed-rank, zeros omitted, absolute-rank ties handled",
+  "mean_ci": "unadjusted paired Student interval on retained observation values",
+  "workers": 8,
+  "observations": 720,
+  "source_sha256": {
+    "code/analysis/run_protected_nosearch.py": "e1ee758aed936d79a7535620929ff4f1c66e25e33d71e425fcfef91588f95d66",
+    "code/analysis/reanalyse_paired_results.py": "a7834dc4174a20b2c21b326ecbc3fb4e0c64193fb9e34a9d43bdab1571a5f19f",
+    "code/history/step16_code_only_backup/results/reference_30streams.csv": "8b0259776eb5867da9ca7881118c99d77a2d90afb2bc3b7b257bd3ad12d6a80e",
+    "opt/osm_hefei/results/confirmation/episodes.csv": "63eaae81e6421b39415715a9ecbac09a4623b039cacbcfd2c1484be3c953db1b",
+    "code/rosr/__init__.py": "7c9684a6aeae16cff67770b8b57608b1d619b91f76ee4a2c4e5f1071d97dcc93",
+    "code/rosr/boot.py": "1caa2b328b3cdd44c641aa42561fcce1a52c987aa7b0fc986b27981a4f661af3",
+    "code/rosr/capacity.py": "c2a6943321e553dd1c534eaacc97d6991bfb6481dba77d0573c2872fcaaea1c9",
+    "code/rosr/comparison.py": "ba9fa5a13807d6ca4f31e43bc7c52ffed3576b42cdba196b4ebb9d2ed2793822",
+    "code/rosr/continuation.py": "5f5665b9618a5f9a206db5a95a669aa560ecdb721ac6c14ff19fc50c987fffbe",
+    "code/rosr/core.py": "acc5a79f6b4ec1c35b0187f8a8629507892239c8803d49dfecf4de18fcbcbcc5",
+    "code/rosr/criteria.py": "3939e3519bd912facb879a8ff7764a21b1a9206cc25eb17db40016954a702166",
+    "code/rosr/edge.py": "6f233ae6f2cf9912bacdc6892e6698c044c35e236009656c0f8183162aa6b6f2",
+    "code/rosr/evaluation.py": "eecc972312a222ce9ea730dc1b9d5990e3b08d2e702cad59ae81384d5a7b241b",
+    "code/rosr/network_audit.py": "84be4c80c152bbc484b776162f40c907089e000e869f47f5215179f0971273bb",
+    "code/rosr/network_model.py": "5e964b210dd74c2da17da484bbe37292f55a7cd90781687a404b4da4229a3358",
+    "code/rosr/policy.py": "77857e64a389cb41be954e418675f9ef03026175b72a95f2c002cb0f99e571ad",
+    "code/rosr/scheduling.py": "b035af87fb56d2821f0f04084ace7a49e3ce586cbbca2ed447e00b3581d47774",
+    "code/rosr/transmission.py": "35bec20de887269af4fa5f0b76b419de389c97a21f64de89e6e36d633f8ec2f1",
+    "code/runtime/audit.py": "492b1ccf02ac179db663c761fa9bfa9dc7b1ca45b8aee9bb262eaad3ea149285",
+    "code/runtime/common.py": "241ffa232ccfcccc722a37b527921dd8fe0f50f3f33e016e07b5d1be6270def5",
+    "code/runtime/model.py": "4568e58e0f9f3e2db63550ac01c06b562a2b3a951750e3d457a1da1d9aec32ff",
+    "code/runtime/routing.py": "23164053f0ce13200b3d8cdf657786e63e9a19f35b94955c0e62ab36a03c7a17"
+  }
+}

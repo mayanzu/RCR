@@ -1,0 +1,207 @@
+{
+  "grid": {
+    "m_1.0": {
+      "density_mean": 99.17154252558898,
+      "protected_ns_mean": 99.2149949985608,
+      "protected_ns_minus_density": {
+        "mean": 0.043452472971830976,
+        "ci_lo": -0.0711540448194633,
+        "ci_hi": 0.15805899076312524,
+        "wtl": "2/26/2",
+        "p_wilcoxon": 0.625,
+        "signed_rank_w": 3.0,
+        "n_nonzero": 4,
+        "rank_percent_decimals": 4
+      },
+      "protected_ns_plan_s": 0.3779767066663832
+    },
+    "coupled_primary": {
+      "density_mean": 93.29660313128707,
+      "protected_ns_mean": 93.3159352250324,
+      "protected_ns_minus_density": {
+        "mean": 0.019332093745331253,
+        "ci_lo": -0.19347001997072033,
+        "ci_hi": 0.23213420746138286,
+        "wtl": "6/20/4",
+        "p_wilcoxon": 0.845703125,
+        "signed_rank_w": 25.0,
+        "n_nonzero": 10,
+        "rank_percent_decimals": 4
+      },
+      "protected_ns_plan_s": 0.519652690000142,
+      "rcr_table2_mean": 93.61421000000001,
+      "rcr_minus_protected_ns": {
+        "mean": 0.2982747749675895,
+        "ci_lo": 0.10366699193161197,
+        "ci_hi": 0.49288255800356695,
+        "wtl": "11/17/2",
+        "p_wilcoxon": 0.00244140625,
+        "signed_rank_w": 5.0,
+        "n_nonzero": 13,
+        "rank_percent_decimals": 4
+      }
+    },
+    "m_2.0": {
+      "density_mean": 83.07558716346625,
+      "protected_ns_mean": 83.00581109382438,
+      "protected_ns_minus_density": {
+        "mean": -0.06977606964188064,
+        "ci_lo": -0.4235264498736472,
+        "ci_hi": 0.28397431058988587,
+        "wtl": "7/15/8",
+        "p_wilcoxon": 0.52447509765625,
+        "signed_rank_w": 48.0,
+        "n_nonzero": 15,
+        "rank_percent_decimals": 4
+      },
+      "protected_ns_plan_s": 0.5202788666665583
+    },
+    "edge_dominant": {
+      "density_mean": 73.52599550325002,
+      "protected_ns_mean": 73.60598474737472,
+      "protected_ns_minus_density": {
+        "mean": 0.07998924412470577,
+        "ci_lo": -0.2364696006457419,
+        "ci_hi": 0.3964480888951534,
+        "wtl": "6/19/5",
+        "p_wilcoxon": 0.51953125,
+        "signed_rank_w": 25.0,
+        "n_nonzero": 11,
+        "rank_percent_decimals": 4
+      },
+      "protected_ns_plan_s": 0.5149609633336392,
+      "rcr_table2_mean": 74.48429333333334,
+      "rcr_minus_protected_ns": {
+        "mean": 0.8783085859586208,
+        "ci_lo": 0.49562957391021073,
+        "ci_hi": 1.2609875980070309,
+        "wtl": "19/10/1",
+        "p_wilcoxon": 5.7220458984375e-06,
+        "signed_rank_w": 2.0,
+        "n_nonzero": 20,
+        "rank_percent_decimals": 4
+      }
+    },
+    "m_3.0": {
+      "density_mean": 66.16228549995819,
+      "protected_ns_mean": 66.04818102207294,
+      "protected_ns_minus_density": {
+        "mean": -0.11410447788524797,
+        "ci_lo": -0.47168903267784945,
+        "ci_hi": 0.24348007690735352,
+        "wtl": "5/22/3",
+        "p_wilcoxon": 0.9453125,
+        "signed_rank_w": 17.0,
+        "n_nonzero": 8,
+        "rank_percent_decimals": 4
+      },
+      "protected_ns_plan_s": 0.46981108333323696
+    },
+    "tighter_deadlines": {
+      "density_mean": 68.04556001969566,
+      "protected_ns_mean": 68.02852081885838,
+      "protected_ns_minus_density": {
+        "mean": -0.01703920083727463,
+        "ci_lo": -0.15347173685264975,
+        "ci_hi": 0.11939333517810051,
+        "wtl": "3/21/6",
+        "p_wilcoxon": 0.49609375,
+        "signed_rank_w": 16.0,
+        "n_nonzero": 9,
+        "rank_percent_decimals": 4
+      },
+      "protected_ns_plan_s": 0.21476507000040027,
+      "rcr_table2_mean": 69.01223666666667,
+      "rcr_minus_protected_ns": {
+        "mean": 0.9837158478082844,
+        "ci_lo": 0.32174069416169004,
+        "ci_hi": 1.6456910014548787,
+        "wtl": "17/8/5",
+        "p_wilcoxon": 0.008167266845703125,
+        "signed_rank_w": 47.0,
+        "n_nonzero": 22,
+        "rank_percent_decimals": 4
+      }
+    }
+  },
+  "hefei": {
+    "coupled_primary": {
+      "density_mean": 90.38435667936429,
+      "protected_ns_mean": 90.4291110708672,
+      "rcr_table11_mean": 91.35657623905261,
+      "protected_ns_minus_density": {
+        "mean": 0.04475439150291815,
+        "ci_lo": -0.4256918086878668,
+        "ci_hi": 0.5152005916937031,
+        "wtl": "6/20/4",
+        "p_wilcoxon": 1.0,
+        "signed_rank_w": 27.0,
+        "n_nonzero": 10,
+        "rank_percent_decimals": 10
+      },
+      "rcr_minus_protected_ns": {
+        "mean": 0.9274651681854186,
+        "ci_lo": 0.3423061675990806,
+        "ci_hi": 1.5126241687717565,
+        "wtl": "17/7/6",
+        "p_wilcoxon": 0.0024156570434570312,
+        "signed_rank_w": 42.0,
+        "n_nonzero": 23,
+        "rank_percent_decimals": 10
+      },
+      "protected_ns_plan_s": 0.6582042666676595
+    },
+    "edge_dominant": {
+      "density_mean": 71.03390636576223,
+      "protected_ns_mean": 71.00055080249057,
+      "rcr_table11_mean": 72.459033353258,
+      "protected_ns_minus_density": {
+        "mean": -0.03335556327167926,
+        "ci_lo": -0.38173672634038525,
+        "ci_hi": 0.3150255997970267,
+        "wtl": "5/19/6",
+        "p_wilcoxon": 0.9658203125,
+        "signed_rank_w": 32.0,
+        "n_nonzero": 11,
+        "rank_percent_decimals": 10
+      },
+      "rcr_minus_protected_ns": {
+        "mean": 1.4584825507674284,
+        "ci_lo": 0.9482805510102718,
+        "ci_hi": 1.9686845505245851,
+        "wtl": "23/3/4",
+        "p_wilcoxon": 1.3113021850585938e-06,
+        "signed_rank_w": 13.0,
+        "n_nonzero": 27,
+        "rank_percent_decimals": 10
+      },
+      "protected_ns_plan_s": 0.49158503333277015
+    },
+    "tighter_deadlines": {
+      "density_mean": 56.60100340650265,
+      "protected_ns_mean": 56.497638162047274,
+      "rcr_table11_mean": 57.954023061475965,
+      "protected_ns_minus_density": {
+        "mean": -0.10336524445537876,
+        "ci_lo": -0.31523450883923576,
+        "ci_hi": 0.10850401992847827,
+        "wtl": "2/25/3",
+        "p_wilcoxon": 0.4375,
+        "signed_rank_w": 4.0,
+        "n_nonzero": 5,
+        "rank_percent_decimals": 10
+      },
+      "rcr_minus_protected_ns": {
+        "mean": 1.4563848994286837,
+        "ci_lo": 0.45145019499149575,
+        "ci_hi": 2.4613196038658716,
+        "wtl": "15/9/6",
+        "p_wilcoxon": 0.0062808990478515625,
+        "signed_rank_w": 39.0,
+        "n_nonzero": 21,
+        "rank_percent_decimals": 10
+      },
+      "protected_ns_plan_s": 0.15969165666759486
+    }
+  }
+}

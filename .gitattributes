@@ -1,0 +1,2 @@
+# Preserve released bytes and accept frozen CRLF sources in diffs.
+* -text whitespace=cr-at-eol

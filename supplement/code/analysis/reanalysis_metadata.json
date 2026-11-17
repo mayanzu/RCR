@@ -1,0 +1,15 @@
+{
+  "analysis": "post hoc; signed ranks conditional on nonzero rounded differences",
+  "reference_signed_rank_family": 40,
+  "factorial_signed_rank_family": 16,
+  "friedman_family": 5,
+  "multiplicity": "Holm step-down within each stated family",
+  "scipy": "1.17.1",
+  "numpy": "2.4.6",
+  "input_sha256": {
+    "reference_30streams.csv": "8b0259776eb5867da9ca7881118c99d77a2d90afb2bc3b7b257bd3ad12d6a80e",
+    "factorial_30streams.csv": "15da956e2694535c1f072c7ef0531e49fc5b0b1af25bd1406580b3928639db4b",
+    "cutfamily_alnsv2_30streams.csv": "01537482f9fb970fd49f1d16d2f060bda8d9a9cebdd057614544e859ce0752aa"
+  },
+  "original_event_logs_or_source_hashes_recovered": false
+}

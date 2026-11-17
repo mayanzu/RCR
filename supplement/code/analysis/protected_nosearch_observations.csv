@@ -1,0 +1,721 @@
+condition,method,seed,value_rate_percent,planning_seconds,provenance
+coupled_primary,density,20423000,97.8902953586498,0.41250469999613415,new audited execution
+coupled_primary,density,20423001,91.57894736842105,0.5823106000043481,new audited execution
+coupled_primary,density,20423002,97.72727272727273,0.5315999999957057,new audited execution
+coupled_primary,density,20423003,99.59677419354838,0.4041360000046552,new audited execution
+coupled_primary,density,20423004,84.0909090909091,1.2868586000022333,new audited execution
+coupled_primary,density,20423005,100.0,0.4366080999980113,new audited execution
+coupled_primary,density,20423006,98.63013698630137,0.6211397000070065,new audited execution
+coupled_primary,density,20423007,99.57805907172997,0.3855018999975073,new audited execution
+coupled_primary,density,20423008,90.0990099009901,0.8096503000015218,new audited execution
+coupled_primary,density,20423009,83.88157894736842,1.4937887000005503,new audited execution
+coupled_primary,density,20423010,89.48863636363636,1.1073255999990579,new audited execution
+coupled_primary,density,20423011,99.57264957264957,0.3287730999991254,new audited execution
+coupled_primary,density,20423012,93.63057324840764,0.7326989000075628,new audited execution
+coupled_primary,density,20423013,92.42902208201893,0.8205500999965807,new audited execution
+coupled_primary,density,20423014,91.57894736842105,0.5844054000026517,new audited execution
+coupled_primary,density,20423015,86.09625668449198,1.1764066000041566,new audited execution
+coupled_primary,density,20423016,98.18181818181819,0.34051759999692877,new audited execution
+coupled_primary,density,20423017,94.65020576131687,0.742940300004193,new audited execution
+coupled_primary,density,20423018,86.1788617886179,1.0471576999998433,new audited execution
+coupled_primary,density,20423019,89.96655518394648,0.6897701000098095,new audited execution
+coupled_primary,density,20423020,89.43661971830986,0.7372458000008919,new audited execution
+coupled_primary,density,20423021,94.0959409594096,0.4929557999930694,new audited execution
+coupled_primary,density,20423022,100.0,0.3158075999954235,new audited execution
+coupled_primary,density,20423023,100.0,0.19215170000279613,new audited execution
+coupled_primary,density,20423024,89.76897689768977,0.5548304999965694,new audited execution
+coupled_primary,density,20423025,100.0,0.2043768000039563,new audited execution
+coupled_primary,density,20423026,93.55932203389831,0.5434252999993987,new audited execution
+coupled_primary,density,20423027,96.29629629629629,0.5858027999938713,new audited execution
+coupled_primary,density,20423028,82.99120234604106,1.1619234999961918,new audited execution
+coupled_primary,density,20423029,87.90322580645162,0.8316340999936074,new audited execution
+coupled_primary,protected_ns,20423000,98.73417721518987,0.19257780000498315,new audited execution
+coupled_primary,protected_ns,20423001,91.57894736842105,0.4861721999996007,new audited execution
+coupled_primary,protected_ns,20423002,97.72727272727273,0.3332819999895946,new audited execution
+coupled_primary,protected_ns,20423003,99.59677419354838,0.23963990000538615,new audited execution
+coupled_primary,protected_ns,20423004,84.0909090909091,1.1012619000021004,new audited execution
+coupled_primary,protected_ns,20423005,100.0,0.16307440000673523,new audited execution
+coupled_primary,protected_ns,20423006,97.71689497716895,0.3999391999877844,new audited execution
+coupled_primary,protected_ns,20423007,99.57805907172997,0.22934040000382083,new audited execution
+coupled_primary,protected_ns,20423008,90.42904290429043,0.8626534000013635,new audited execution
+coupled_primary,protected_ns,20423009,83.88157894736842,1.3594869999969887,new audited execution
+coupled_primary,protected_ns,20423010,91.19318181818183,1.0023487000053137,new audited execution
+coupled_primary,protected_ns,20423011,99.57264957264957,0.16382729999531875,new audited execution
+coupled_primary,protected_ns,20423012,93.63057324840764,0.4556410000013784,new audited execution
+coupled_primary,protected_ns,20423013,92.42902208201893,0.664628299998185,new audited execution
+coupled_primary,protected_ns,20423014,91.57894736842105,0.33105649999924935,new audited execution
+coupled_primary,protected_ns,20423015,86.09625668449198,0.9202290999937759,new audited execution
+coupled_primary,protected_ns,20423016,98.18181818181819,0.25059419999615784,new audited execution
+coupled_primary,protected_ns,20423017,94.65020576131687,0.6046933000015997,new audited execution
+coupled_primary,protected_ns,20423018,84.5528455284553,0.8866746999938186,new audited execution
+coupled_primary,protected_ns,20423019,89.96655518394648,0.49001070000394975,new audited execution
+coupled_primary,protected_ns,20423020,89.7887323943662,0.6311571999940497,new audited execution
+coupled_primary,protected_ns,20423021,92.98892988929889,0.3019576000051529,new audited execution
+coupled_primary,protected_ns,20423022,100.0,0.15740859999641543,new audited execution
+coupled_primary,protected_ns,20423023,100.0,0.11195879999559111,new audited execution
+coupled_primary,protected_ns,20423024,89.76897689768977,0.46775190001062583,new audited execution
+coupled_primary,protected_ns,20423025,100.0,0.10964639999747305,new audited execution
+coupled_primary,protected_ns,20423026,94.23728813559322,0.41564110000308574,new audited execution
+coupled_primary,protected_ns,20423027,96.29629629629629,0.5020399000122779,new audited execution
+coupled_primary,protected_ns,20423028,83.57771260997067,1.110852200004956,new audited execution
+coupled_primary,protected_ns,20423029,87.63440860215054,0.6440349999975297,new audited execution
+edge_dominant,density,20423000,83.96624472573839,0.37880430000222987,new audited execution
+edge_dominant,density,20423001,67.36842105263158,0.43431639998925675,new audited execution
+edge_dominant,density,20423002,71.96969696969697,0.4184774000041216,new audited execution
+edge_dominant,density,20423003,80.24193548387096,0.43065969998951914,new audited execution
+edge_dominant,density,20423004,63.06818181818182,0.6529885999971157,new audited execution
+edge_dominant,density,20423005,80.19323671497585,0.2586306000039258,new audited execution
+edge_dominant,density,20423006,78.08219178082192,0.4839896999992561,new audited execution
+edge_dominant,density,20423007,81.85654008438819,0.24902290000864014,new audited execution
+edge_dominant,density,20423008,68.64686468646865,0.6355938999959108,new audited execution
+edge_dominant,density,20423009,64.80263157894737,0.809818599999744,new audited execution
+edge_dominant,density,20423010,68.18181818181817,0.7518249000031574,new audited execution
+edge_dominant,density,20423011,84.61538461538461,0.35906729999805975,new audited execution
+edge_dominant,density,20423012,71.656050955414,0.6044306000021606,new audited execution
+edge_dominant,density,20423013,73.81703470031546,0.6654305000010936,new audited execution
+edge_dominant,density,20423014,73.33333333333333,0.4224726000047667,new audited execution
+edge_dominant,density,20423015,64.70588235294117,0.7411657000111518,new audited execution
+edge_dominant,density,20423016,82.27272727272728,0.2591313000102673,new audited execution
+edge_dominant,density,20423017,75.7201646090535,0.3816084000081901,new audited execution
+edge_dominant,density,20423018,62.05962059620597,0.5538909000006242,new audited execution
+edge_dominant,density,20423019,65.55183946488295,0.443155800000568,new audited execution
+edge_dominant,density,20423020,70.07042253521126,0.5533302999974694,new audited execution
+edge_dominant,density,20423021,73.06273062730627,0.455395300001328,new audited execution
+edge_dominant,density,20423022,83.40425531914893,0.3662099000075614,new audited execution
+edge_dominant,density,20423023,85.64356435643565,0.26389839999774267,new audited execution
+edge_dominant,density,20423024,65.01650165016501,0.5335324000025139,new audited execution
+edge_dominant,density,20423025,89.8876404494382,0.31224910000582895,new audited execution
+edge_dominant,density,20423026,72.54237288135593,0.5429136999937327,new audited execution
+edge_dominant,density,20423027,74.81481481481481,0.5651960999948642,new audited execution
+edge_dominant,density,20423028,60.410557184750736,0.6937698000056116,new audited execution
+edge_dominant,density,20423029,68.81720430107528,0.5944050000080097,new audited execution
+edge_dominant,protected_ns,20423000,83.96624472573839,0.32218610000745684,new audited execution
+edge_dominant,protected_ns,20423001,67.36842105263158,0.4536608999978853,new audited execution
+edge_dominant,protected_ns,20423002,73.48484848484848,0.4272240000027523,new audited execution
+edge_dominant,protected_ns,20423003,81.85483870967742,0.3577393000041411,new audited execution
+edge_dominant,protected_ns,20423004,63.06818181818182,0.8326530000031198,new audited execution
+edge_dominant,protected_ns,20423005,80.19323671497585,0.2708970000021509,new audited execution
+edge_dominant,protected_ns,20423006,79.45205479452055,0.41522990000157733,new audited execution
+edge_dominant,protected_ns,20423007,81.85654008438819,0.21381919998930243,new audited execution
+edge_dominant,protected_ns,20423008,67.98679867986799,0.6436586999925566,new audited execution
+edge_dominant,protected_ns,20423009,64.80263157894737,0.9402183000011064,new audited execution
+edge_dominant,protected_ns,20423010,68.18181818181817,0.8027725999982067,new audited execution
+edge_dominant,protected_ns,20423011,84.61538461538461,0.2743156000005911,new audited execution
+edge_dominant,protected_ns,20423012,73.56687898089172,0.6511534000046595,new audited execution
+edge_dominant,protected_ns,20423013,73.81703470031546,0.742252299998654,new audited execution
+edge_dominant,protected_ns,20423014,70.87719298245614,0.4717555999986871,new audited execution
+edge_dominant,protected_ns,20423015,64.70588235294117,0.8623159000026135,new audited execution
+edge_dominant,protected_ns,20423016,82.27272727272728,0.23568760000125621,new audited execution
+edge_dominant,protected_ns,20423017,75.7201646090535,0.4128396000005523,new audited execution
+edge_dominant,protected_ns,20423018,62.05962059620597,0.6153699000042252,new audited execution
+edge_dominant,protected_ns,20423019,65.55183946488295,0.45737370000188093,new audited execution
+edge_dominant,protected_ns,20423020,69.36619718309859,0.6881731000030413,new audited execution
+edge_dominant,protected_ns,20423021,71.95571955719558,0.4839128999983586,new audited execution
+edge_dominant,protected_ns,20423022,83.40425531914893,0.27492849999907776,new audited execution
+edge_dominant,protected_ns,20423023,85.64356435643565,0.26338310000028287,new audited execution
+edge_dominant,protected_ns,20423024,66.33663366336634,0.612307299990789,new audited execution
+edge_dominant,protected_ns,20423025,89.8876404494382,0.25380370000220864,new audited execution
+edge_dominant,protected_ns,20423026,72.88135593220339,0.6065546000081667,new audited execution
+edge_dominant,protected_ns,20423027,74.07407407407408,0.4822774000058416,new audited execution
+edge_dominant,protected_ns,20423028,60.410557184750736,0.7229506999929072,new audited execution
+edge_dominant,protected_ns,20423029,68.81720430107528,0.657414999995126,new audited execution
+hefei_coupled_primary,density,20480000,85.83333333333333,0.47687920000771555,new audited execution
+hefei_coupled_primary,density,20480001,92.20779220779221,0.42488050001247757,new audited execution
+hefei_coupled_primary,density,20480002,88.80597014925374,0.667737799995848,new audited execution
+hefei_coupled_primary,density,20480003,92.65306122448979,0.5884698999971079,new audited execution
+hefei_coupled_primary,density,20480004,95.65217391304348,0.522250900002291,new audited execution
+hefei_coupled_primary,density,20480005,89.74358974358975,0.7120848000076876,new audited execution
+hefei_coupled_primary,density,20480006,81.92090395480226,1.2001673000013398,new audited execution
+hefei_coupled_primary,density,20480007,91.7910447761194,0.600570699995842,new audited execution
+hefei_coupled_primary,density,20480008,95.25423728813558,0.8840954999968744,new audited execution
+hefei_coupled_primary,density,20480009,85.20900321543408,1.128951000006964,new audited execution
+hefei_coupled_primary,density,20480010,92.3076923076923,1.1868043000022226,new audited execution
+hefei_coupled_primary,density,20480011,100.0,0.4410717999971894,new audited execution
+hefei_coupled_primary,density,20480012,92.64705882352942,0.43128319999686937,new audited execution
+hefei_coupled_primary,density,20480013,91.5129151291513,0.6333892999991804,new audited execution
+hefei_coupled_primary,density,20480014,84.21052631578947,0.6427941000001738,new audited execution
+hefei_coupled_primary,density,20480015,88.11188811188812,0.7622758000034082,new audited execution
+hefei_coupled_primary,density,20480016,92.21183800623052,0.7120079000023907,new audited execution
+hefei_coupled_primary,density,20480017,99.03846153846155,0.5045296999924176,new audited execution
+hefei_coupled_primary,density,20480018,96.875,0.6281087000024854,new audited execution
+hefei_coupled_primary,density,20480019,81.31147540983606,1.0421520999980203,new audited execution
+hefei_coupled_primary,density,20480020,85.10028653295129,1.2029899000108344,new audited execution
+hefei_coupled_primary,density,20480021,92.5,0.72715960000005,new audited execution
+hefei_coupled_primary,density,20480022,93.47079037800687,0.76023850000729,new audited execution
+hefei_coupled_primary,density,20480023,81.68604651162791,1.1555171999943923,new audited execution
+hefei_coupled_primary,density,20480024,87.91946308724832,1.1217154000014489,new audited execution
+hefei_coupled_primary,density,20480025,92.06349206349206,0.7128754000095796,new audited execution
+hefei_coupled_primary,density,20480026,86.06811145510835,1.172256799999559,new audited execution
+hefei_coupled_primary,density,20480027,91.05691056910568,0.446203700003025,new audited execution
+hefei_coupled_primary,density,20480028,96.28099173553719,0.5880320999967807,new audited execution
+hefei_coupled_primary,density,20480029,88.08664259927798,1.1828365000046688,new audited execution
+hefei_coupled_primary,protected_ns,20480000,85.83333333333333,0.4026739000019006,new audited execution
+hefei_coupled_primary,protected_ns,20480001,93.5064935064935,0.31908109999585577,new audited execution
+hefei_coupled_primary,protected_ns,20480002,88.80597014925374,0.6166856000054395,new audited execution
+hefei_coupled_primary,protected_ns,20480003,92.65306122448979,0.43233839999993506,new audited execution
+hefei_coupled_primary,protected_ns,20480004,95.65217391304348,0.33413489999020385,new audited execution
+hefei_coupled_primary,protected_ns,20480005,87.91208791208791,1.0369082000070193,new audited execution
+hefei_coupled_primary,protected_ns,20480006,80.22598870056498,1.2116196000051787,new audited execution
+hefei_coupled_primary,protected_ns,20480007,93.28358208955224,0.5146287000006851,new audited execution
+hefei_coupled_primary,protected_ns,20480008,95.25423728813558,0.5485425999995641,new audited execution
+hefei_coupled_primary,protected_ns,20480009,85.20900321543408,0.9639482000011412,new audited execution
+hefei_coupled_primary,protected_ns,20480010,92.3076923076923,0.8529899000068326,new audited execution
+hefei_coupled_primary,protected_ns,20480011,100.0,0.22999799999888637,new audited execution
+hefei_coupled_primary,protected_ns,20480012,92.64705882352942,0.30024600000615465,new audited execution
+hefei_coupled_primary,protected_ns,20480013,91.5129151291513,0.5186190000076749,new audited execution
+hefei_coupled_primary,protected_ns,20480014,86.63967611336032,0.623505299991848,new audited execution
+hefei_coupled_primary,protected_ns,20480015,88.46153846153845,0.7491267999930642,new audited execution
+hefei_coupled_primary,protected_ns,20480016,92.21183800623052,0.6397172999986651,new audited execution
+hefei_coupled_primary,protected_ns,20480017,99.03846153846155,0.2549530999995113,new audited execution
+hefei_coupled_primary,protected_ns,20480018,96.875,0.5128875999971569,new audited execution
+hefei_coupled_primary,protected_ns,20480019,84.59016393442623,1.0591086000040377,new audited execution
+hefei_coupled_primary,protected_ns,20480020,85.10028653295129,1.0204428000088228,new audited execution
+hefei_coupled_primary,protected_ns,20480021,92.5,0.5112809000092966,new audited execution
+hefei_coupled_primary,protected_ns,20480022,91.06529209621993,0.6266211999964071,new audited execution
+hefei_coupled_primary,protected_ns,20480023,81.68604651162791,1.129372700008389,new audited execution
+hefei_coupled_primary,protected_ns,20480024,89.59731543624162,0.881185600005665,new audited execution
+hefei_coupled_primary,protected_ns,20480025,92.06349206349206,0.5023653000043851,new audited execution
+hefei_coupled_primary,protected_ns,20480026,86.06811145510835,1.0605431999911161,new audited execution
+hefei_coupled_primary,protected_ns,20480027,87.8048780487805,0.3613950000017212,new audited execution
+hefei_coupled_primary,protected_ns,20480028,96.28099173553719,0.4925284000000829,new audited execution
+hefei_coupled_primary,protected_ns,20480029,88.08664259927798,1.0386800999931438,new audited execution
+hefei_edge_dominant,density,20480000,69.16666666666667,0.4166404999959923,new audited execution
+hefei_edge_dominant,density,20480001,76.19047619047619,0.3479323999972621,new audited execution
+hefei_edge_dominant,density,20480002,72.38805970149254,0.4343760999990991,new audited execution
+hefei_edge_dominant,density,20480003,75.51020408163265,0.3457449999905293,new audited execution
+hefei_edge_dominant,density,20480004,75.0,0.40999339999416406,new audited execution
+hefei_edge_dominant,density,20480005,65.93406593406593,0.38052970000717323,new audited execution
+hefei_edge_dominant,density,20480006,60.451977401129945,0.6409772000060912,new audited execution
+hefei_edge_dominant,density,20480007,70.1492537313433,0.3984621000072366,new audited execution
+hefei_edge_dominant,density,20480008,67.11864406779661,0.3787097999966136,new audited execution
+hefei_edge_dominant,density,20480009,66.88102893890675,0.6243506999926467,new audited execution
+hefei_edge_dominant,density,20480010,78.3882783882784,0.7010180000006585,new audited execution
+hefei_edge_dominant,density,20480011,78.3410138248848,0.2888636999978189,new audited execution
+hefei_edge_dominant,density,20480012,76.83823529411765,0.35664570000335516,new audited execution
+hefei_edge_dominant,density,20480013,74.53874538745387,0.5102506000039284,new audited execution
+hefei_edge_dominant,density,20480014,70.8502024291498,0.3910055999976976,new audited execution
+hefei_edge_dominant,density,20480015,65.03496503496503,0.46270199999435135,new audited execution
+hefei_edge_dominant,density,20480016,67.601246105919,0.5588070999983756,new audited execution
+hefei_edge_dominant,density,20480017,83.65384615384616,0.40405220000775444,new audited execution
+hefei_edge_dominant,density,20480018,74.609375,0.4516737999938414,new audited execution
+hefei_edge_dominant,density,20480019,59.01639344262295,0.5959574999969846,new audited execution
+hefei_edge_dominant,density,20480020,69.62750716332378,0.642913600000611,new audited execution
+hefei_edge_dominant,density,20480021,74.28571428571429,0.4511332999991282,new audited execution
+hefei_edge_dominant,density,20480022,70.10309278350515,0.5179055999924458,new audited execution
+hefei_edge_dominant,density,20480023,67.73255813953489,0.6741826000015863,new audited execution
+hefei_edge_dominant,density,20480024,69.12751677852349,0.5895088999950531,new audited execution
+hefei_edge_dominant,density,20480025,72.61904761904762,0.3311548000001494,new audited execution
+hefei_edge_dominant,density,20480026,68.73065015479877,0.6487893999965308,new audited execution
+hefei_edge_dominant,density,20480027,67.07317073170732,0.3130050999980085,new audited execution
+hefei_edge_dominant,density,20480028,74.3801652892562,0.38400300000193965,new audited execution
+hefei_edge_dominant,density,20480029,69.67509025270758,0.635782600001221,new audited execution
+hefei_edge_dominant,protected_ns,20480000,69.16666666666667,0.4239561999993384,new audited execution
+hefei_edge_dominant,protected_ns,20480001,76.19047619047619,0.304783700004009,new audited execution
+hefei_edge_dominant,protected_ns,20480002,71.64179104477611,0.47675039999830915,new audited execution
+hefei_edge_dominant,protected_ns,20480003,74.6938775510204,0.34560729999793693,new audited execution
+hefei_edge_dominant,protected_ns,20480004,75.0,0.3938053999954718,new audited execution
+hefei_edge_dominant,protected_ns,20480005,65.93406593406593,0.4138607000013508,new audited execution
+hefei_edge_dominant,protected_ns,20480006,60.451977401129945,0.7431157000037274,new audited execution
+hefei_edge_dominant,protected_ns,20480007,70.1492537313433,0.3817348000029597,new audited execution
+hefei_edge_dominant,protected_ns,20480008,67.11864406779661,0.4220173999929102,new audited execution
+hefei_edge_dominant,protected_ns,20480009,66.88102893890675,0.6901126999946428,new audited execution
+hefei_edge_dominant,protected_ns,20480010,78.02197802197803,0.7123334999978397,new audited execution
+hefei_edge_dominant,protected_ns,20480011,78.3410138248848,0.28188719999798195,new audited execution
+hefei_edge_dominant,protected_ns,20480012,79.04411764705883,0.30111460000171064,new audited execution
+hefei_edge_dominant,protected_ns,20480013,71.58671586715867,0.5070593999998891,new audited execution
+hefei_edge_dominant,protected_ns,20480014,71.65991902834008,0.3791547000037099,new audited execution
+hefei_edge_dominant,protected_ns,20480015,66.43356643356644,0.5497826000000714,new audited execution
+hefei_edge_dominant,protected_ns,20480016,67.601246105919,0.6358498000072359,new audited execution
+hefei_edge_dominant,protected_ns,20480017,83.65384615384616,0.39995539999654284,new audited execution
+hefei_edge_dominant,protected_ns,20480018,74.609375,0.42744349999429687,new audited execution
+hefei_edge_dominant,protected_ns,20480019,60.0,0.5981539000013072,new audited execution
+hefei_edge_dominant,protected_ns,20480020,68.76790830945558,0.6566103000004659,new audited execution
+hefei_edge_dominant,protected_ns,20480021,74.28571428571429,0.44698040000275796,new audited execution
+hefei_edge_dominant,protected_ns,20480022,71.47766323024055,0.5098158999871885,new audited execution
+hefei_edge_dominant,protected_ns,20480023,67.73255813953489,0.7883924000070692,new audited execution
+hefei_edge_dominant,protected_ns,20480024,69.12751677852349,0.6500356000060492,new audited execution
+hefei_edge_dominant,protected_ns,20480025,72.61904761904762,0.30293999999594234,new audited execution
+hefei_edge_dominant,protected_ns,20480026,68.73065015479877,0.63737709999441,new audited execution
+hefei_edge_dominant,protected_ns,20480027,65.04065040650406,0.3323852000003171,new audited execution
+hefei_edge_dominant,protected_ns,20480028,74.3801652892562,0.3814484000022276,new audited execution
+hefei_edge_dominant,protected_ns,20480029,69.67509025270758,0.6530867999954353,new audited execution
+hefei_tighter_deadlines,density,20480000,55.41666666666667,0.15019090000441793,new audited execution
+hefei_tighter_deadlines,density,20480001,69.26406926406926,0.14646790000460896,new audited execution
+hefei_tighter_deadlines,density,20480002,63.059701492537314,0.25283289999788394,new audited execution
+hefei_tighter_deadlines,density,20480003,47.755102040816325,0.1487805999986449,new audited execution
+hefei_tighter_deadlines,density,20480004,63.76811594202898,0.21904450000147335,new audited execution
+hefei_tighter_deadlines,density,20480005,49.81684981684982,0.1626399000042511,new audited execution
+hefei_tighter_deadlines,density,20480006,55.08474576271186,0.34992629998941993,new audited execution
+hefei_tighter_deadlines,density,20480007,57.08955223880597,0.17692759999954433,new audited execution
+hefei_tighter_deadlines,density,20480008,67.11864406779661,0.30307110000921966,new audited execution
+hefei_tighter_deadlines,density,20480009,54.340836012861736,0.28977089999807504,new audited execution
+hefei_tighter_deadlines,density,20480010,58.24175824175825,0.24532130000079633,new audited execution
+hefei_tighter_deadlines,density,20480011,64.0552995391705,0.10493419999602338,new audited execution
+hefei_tighter_deadlines,density,20480012,54.41176470588235,0.11441099999683502,new audited execution
+hefei_tighter_deadlines,density,20480013,53.50553505535055,0.20294979999107454,new audited execution
+hefei_tighter_deadlines,density,20480014,57.48987854251012,0.16765040001337184,new audited execution
+hefei_tighter_deadlines,density,20480015,56.29370629370629,0.2592666000000463,new audited execution
+hefei_tighter_deadlines,density,20480016,57.943925233644855,0.27685820000624517,new audited execution
+hefei_tighter_deadlines,density,20480017,59.61538461538461,0.14046840000264638,new audited execution
+hefei_tighter_deadlines,density,20480018,45.3125,0.17251890000443382,new audited execution
+hefei_tighter_deadlines,density,20480019,42.950819672131146,0.2675176000002466,new audited execution
+hefei_tighter_deadlines,density,20480020,55.014326647564474,0.3044199999967532,new audited execution
+hefei_tighter_deadlines,density,20480021,50.357142857142854,0.20475689999602764,new audited execution
+hefei_tighter_deadlines,density,20480022,65.63573883161511,0.2138574999944467,new audited execution
+hefei_tighter_deadlines,density,20480023,53.779069767441854,0.33151319999888074,new audited execution
+hefei_tighter_deadlines,density,20480024,54.69798657718121,0.3015910000049189,new audited execution
+hefei_tighter_deadlines,density,20480025,64.28571428571429,0.2086914000010438,new audited execution
+hefei_tighter_deadlines,density,20480026,46.43962848297213,0.3478218000036577,new audited execution
+hefei_tighter_deadlines,density,20480027,52.4390243902439,0.16495510000004288,new audited execution
+hefei_tighter_deadlines,density,20480028,66.52892561983471,0.23144870000214723,new audited execution
+hefei_tighter_deadlines,density,20480029,56.317689530685925,0.2593973000120968,new audited execution
+hefei_tighter_deadlines,protected_ns,20480000,55.41666666666667,0.09313429999929212,new audited execution
+hefei_tighter_deadlines,protected_ns,20480001,69.26406926406926,0.09163600000283623,new audited execution
+hefei_tighter_deadlines,protected_ns,20480002,63.059701492537314,0.16985349999958999,new audited execution
+hefei_tighter_deadlines,protected_ns,20480003,47.755102040816325,0.11525020000044606,new audited execution
+hefei_tighter_deadlines,protected_ns,20480004,64.13043478260869,0.14133689999198396,new audited execution
+hefei_tighter_deadlines,protected_ns,20480005,49.81684981684982,0.12940749999688705,new audited execution
+hefei_tighter_deadlines,protected_ns,20480006,54.23728813559322,0.2630976000109513,new audited execution
+hefei_tighter_deadlines,protected_ns,20480007,57.08955223880597,0.12087699999392498,new audited execution
+hefei_tighter_deadlines,protected_ns,20480008,67.11864406779661,0.2858063000103357,new audited execution
+hefei_tighter_deadlines,protected_ns,20480009,54.340836012861736,0.24022270000568824,new audited execution
+hefei_tighter_deadlines,protected_ns,20480010,58.24175824175825,0.1519381000116482,new audited execution
+hefei_tighter_deadlines,protected_ns,20480011,64.0552995391705,0.07957659999192401,new audited execution
+hefei_tighter_deadlines,protected_ns,20480012,54.41176470588235,0.06464380000215897,new audited execution
+hefei_tighter_deadlines,protected_ns,20480013,53.50553505535055,0.14274139999724866,new audited execution
+hefei_tighter_deadlines,protected_ns,20480014,57.48987854251012,0.10652830000253743,new audited execution
+hefei_tighter_deadlines,protected_ns,20480015,56.29370629370629,0.19702000000052067,new audited execution
+hefei_tighter_deadlines,protected_ns,20480016,57.943925233644855,0.20576439999967988,new audited execution
+hefei_tighter_deadlines,protected_ns,20480017,59.61538461538461,0.08005390000016632,new audited execution
+hefei_tighter_deadlines,protected_ns,20480018,45.3125,0.13110889999825304,new audited execution
+hefei_tighter_deadlines,protected_ns,20480019,42.950819672131146,0.2155285999915577,new audited execution
+hefei_tighter_deadlines,protected_ns,20480020,55.014326647564474,0.2118886000062048,new audited execution
+hefei_tighter_deadlines,protected_ns,20480021,50.357142857142854,0.1566921000048751,new audited execution
+hefei_tighter_deadlines,protected_ns,20480022,65.63573883161511,0.13654540000243287,new audited execution
+hefei_tighter_deadlines,protected_ns,20480023,53.779069767441854,0.19334669999989273,new audited execution
+hefei_tighter_deadlines,protected_ns,20480024,54.69798657718121,0.2250419999973019,new audited execution
+hefei_tighter_deadlines,protected_ns,20480025,64.28571428571429,0.13893999999891093,new audited execution
+hefei_tighter_deadlines,protected_ns,20480026,46.43962848297213,0.26087119999647257,new audited execution
+hefei_tighter_deadlines,protected_ns,20480027,51.21951219512195,0.09310860000368848,new audited execution
+hefei_tighter_deadlines,protected_ns,20480028,64.0495867768595,0.16607750000639498,new audited execution
+hefei_tighter_deadlines,protected_ns,20480029,57.400722021660656,0.18271160000404052,new audited execution
+m_1.0,density,20423000,100.0,0.5187334000029296,new audited execution
+m_1.0,density,20423001,96.84210526315789,1.121019800006252,new audited execution
+m_1.0,density,20423002,99.62121212121212,0.4670190000033472,new audited execution
+m_1.0,density,20423003,100.0,0.455039400005262,new audited execution
+m_1.0,density,20423004,99.14772727272727,1.7562087000014799,new audited execution
+m_1.0,density,20423005,100.0,0.3027012000002287,new audited execution
+m_1.0,density,20423006,100.0,0.45712579999781155,new audited execution
+m_1.0,density,20423007,100.0,0.2335551999958625,new audited execution
+m_1.0,density,20423008,100.0,0.7747566000043662,new audited execution
+m_1.0,density,20423009,95.72368421052632,1.539633800001866,new audited execution
+m_1.0,density,20423010,97.44318181818183,0.9074830999979895,new audited execution
+m_1.0,density,20423011,100.0,0.20890379999673314,new audited execution
+m_1.0,density,20423012,100.0,0.7348880000026838,new audited execution
+m_1.0,density,20423013,100.0,0.7125356999986252,new audited execution
+m_1.0,density,20423014,100.0,0.5101481000019703,new audited execution
+m_1.0,density,20423015,98.1283422459893,1.5969661999934033,new audited execution
+m_1.0,density,20423016,100.0,0.24934870000015508,new audited execution
+m_1.0,density,20423017,98.76543209876543,0.5753002999981618,new audited execution
+m_1.0,density,20423018,98.1029810298103,1.2931068000007144,new audited execution
+m_1.0,density,20423019,100.0,0.8148030000029394,new audited execution
+m_1.0,density,20423020,100.0,0.7218929999989996,new audited execution
+m_1.0,density,20423021,100.0,0.3665462000053594,new audited execution
+m_1.0,density,20423022,97.87234042553192,0.24736099999881844,new audited execution
+m_1.0,density,20423023,100.0,0.16139759999714443,new audited execution
+m_1.0,density,20423024,99.33993399339934,0.4547003999923618,new audited execution
+m_1.0,density,20423025,100.0,0.14356080000106886,new audited execution
+m_1.0,density,20423026,100.0,0.4002537000042139,new audited execution
+m_1.0,density,20423027,100.0,0.4469671999931961,new audited execution
+m_1.0,density,20423028,94.42815249266863,1.997124000004078,new audited execution
+m_1.0,density,20423029,99.73118279569893,0.7206534999977521,new audited execution
+m_1.0,protected_ns,20423000,100.0,0.32851459999346844,new audited execution
+m_1.0,protected_ns,20423001,96.84210526315789,0.7072643000065,new audited execution
+m_1.0,protected_ns,20423002,99.62121212121212,0.30373309999231424,new audited execution
+m_1.0,protected_ns,20423003,100.0,0.2487045000107173,new audited execution
+m_1.0,protected_ns,20423004,99.14772727272727,0.6779825999956302,new audited execution
+m_1.0,protected_ns,20423005,100.0,0.19569820000469917,new audited execution
+m_1.0,protected_ns,20423006,100.0,0.2284178999989308,new audited execution
+m_1.0,protected_ns,20423007,100.0,0.1216736999922432,new audited execution
+m_1.0,protected_ns,20423008,100.0,0.3549333000091792,new audited execution
+m_1.0,protected_ns,20423009,97.03947368421053,0.8440092000009827,new audited execution
+m_1.0,protected_ns,20423010,97.44318181818183,0.6177144000030239,new audited execution
+m_1.0,protected_ns,20423011,100.0,0.16817230000015115,new audited execution
+m_1.0,protected_ns,20423012,100.0,0.287283100006789,new audited execution
+m_1.0,protected_ns,20423013,100.0,0.3118049999939103,new audited execution
+m_1.0,protected_ns,20423014,100.0,0.2445254999993267,new audited execution
+m_1.0,protected_ns,20423015,98.1283422459893,0.6870843999940917,new audited execution
+m_1.0,protected_ns,20423016,100.0,0.15162549999877228,new audited execution
+m_1.0,protected_ns,20423017,99.58847736625515,0.39332439999816415,new audited execution
+m_1.0,protected_ns,20423018,97.5609756097561,0.8071386000010534,new audited execution
+m_1.0,protected_ns,20423019,100.0,0.2999189999927694,new audited execution
+m_1.0,protected_ns,20423020,100.0,0.3822666999976718,new audited execution
+m_1.0,protected_ns,20423021,100.0,0.17421219999960158,new audited execution
+m_1.0,protected_ns,20423022,97.87234042553192,0.14348619999509538,new audited execution
+m_1.0,protected_ns,20423023,100.0,0.10252479999417119,new audited execution
+m_1.0,protected_ns,20423024,99.33993399339934,0.28071889999500854,new audited execution
+m_1.0,protected_ns,20423025,100.0,0.10909479999736504,new audited execution
+m_1.0,protected_ns,20423026,100.0,0.20291890000498825,new audited execution
+m_1.0,protected_ns,20423027,100.0,0.2246791999978086,new audited execution
+m_1.0,protected_ns,20423028,94.13489736070382,1.3669676000063191,new audited execution
+m_1.0,protected_ns,20423029,99.73118279569893,0.37290830001074937,new audited execution
+m_2.0,density,20423000,90.29535864978902,0.3872863000005964,new audited execution
+m_2.0,density,20423001,78.24561403508771,0.4120613000004596,new audited execution
+m_2.0,density,20423002,82.57575757575758,0.43492610000157583,new audited execution
+m_2.0,density,20423003,91.12903225806451,0.36621919999743113,new audited execution
+m_2.0,density,20423004,72.44318181818183,0.8503482000060103,new audited execution
+m_2.0,density,20423005,89.85507246376811,0.40334290000555484,new audited execution
+m_2.0,density,20423006,91.32420091324201,0.6061110000055123,new audited execution
+m_2.0,density,20423007,92.82700421940928,0.3497948999984146,new audited execution
+m_2.0,density,20423008,77.88778877887789,0.7825561000108792,new audited execution
+m_2.0,density,20423009,75.0,0.9711438999966049,new audited execution
+m_2.0,density,20423010,77.8409090909091,0.6603801999963252,new audited execution
+m_2.0,density,20423011,92.73504273504274,0.3128447999970376,new audited execution
+m_2.0,density,20423012,82.16560509554141,0.5935105999969892,new audited execution
+m_2.0,density,20423013,82.01892744479495,0.7241682000030778,new audited execution
+m_2.0,density,20423014,81.75438596491227,0.5249641999907908,new audited execution
+m_2.0,density,20423015,75.66844919786097,0.8660844999949404,new audited execution
+m_2.0,density,20423016,88.18181818181819,0.2866539999977249,new audited execution
+m_2.0,density,20423017,86.0082304526749,0.4724743999986458,new audited execution
+m_2.0,density,20423018,72.35772357723577,0.8670034000033411,new audited execution
+m_2.0,density,20423019,75.91973244147158,0.5532667000043148,new audited execution
+m_2.0,density,20423020,78.16901408450704,0.6788673000046401,new audited execution
+m_2.0,density,20423021,83.02583025830258,0.4770777999983693,new audited execution
+m_2.0,density,20423022,91.48936170212765,0.4075548000000708,new audited execution
+m_2.0,density,20423023,93.06930693069307,0.2669168000029458,new audited execution
+m_2.0,density,20423024,76.89768976897689,0.4809298999980456,new audited execution
+m_2.0,density,20423025,96.62921348314607,0.2591868999961662,new audited execution
+m_2.0,density,20423026,84.40677966101696,0.46022459999767307,new audited execution
+m_2.0,density,20423027,84.81481481481481,0.5174783000002208,new audited execution
+m_2.0,density,20423028,70.38123167155426,0.7686426000027495,new audited execution
+m_2.0,density,20423029,77.15053763440861,0.626751100002366,new audited execution
+m_2.0,protected_ns,20423000,90.71729957805907,0.3207226000040464,new audited execution
+m_2.0,protected_ns,20423001,77.54385964912281,0.5116137999966668,new audited execution
+m_2.0,protected_ns,20423002,81.06060606060606,0.6064620999995896,new audited execution
+m_2.0,protected_ns,20423003,91.12903225806451,0.27363919999788777,new audited execution
+m_2.0,protected_ns,20423004,72.44318181818183,0.9809286999998221,new audited execution
+m_2.0,protected_ns,20423005,88.88888888888889,0.215803699996286,new audited execution
+m_2.0,protected_ns,20423006,90.8675799086758,0.4409133000017391,new audited execution
+m_2.0,protected_ns,20423007,92.82700421940928,0.36146040000585344,new audited execution
+m_2.0,protected_ns,20423008,77.88778877887789,0.7469141999972635,new audited execution
+m_2.0,protected_ns,20423009,75.0,0.9021729000014602,new audited execution
+m_2.0,protected_ns,20423010,76.70454545454545,0.6988577000020086,new audited execution
+m_2.0,protected_ns,20423011,93.16239316239316,0.20498399999814865,new audited execution
+m_2.0,protected_ns,20423012,82.48407643312102,0.6182854999951815,new audited execution
+m_2.0,protected_ns,20423013,82.01892744479495,0.7470071000034295,new audited execution
+m_2.0,protected_ns,20423014,81.75438596491227,0.4772074999928009,new audited execution
+m_2.0,protected_ns,20423015,75.66844919786097,0.9092273000142086,new audited execution
+m_2.0,protected_ns,20423016,91.36363636363637,0.22168660000170348,new audited execution
+m_2.0,protected_ns,20423017,86.0082304526749,0.3517407999943316,new audited execution
+m_2.0,protected_ns,20423018,72.08672086720867,0.7739210999952775,new audited execution
+m_2.0,protected_ns,20423019,77.25752508361204,0.4507883000014772,new audited execution
+m_2.0,protected_ns,20423020,78.87323943661971,0.6656485999919823,new audited execution
+m_2.0,protected_ns,20423021,80.44280442804428,0.48490019999644574,new audited execution
+m_2.0,protected_ns,20423022,91.48936170212765,0.3186193000055937,new audited execution
+m_2.0,protected_ns,20423023,93.06930693069307,0.1894362000084584,new audited execution
+m_2.0,protected_ns,20423024,76.89768976897689,0.560538800010363,new audited execution
+m_2.0,protected_ns,20423025,95.50561797752809,0.22587450000173703,new audited execution
+m_2.0,protected_ns,20423026,84.40677966101696,0.36896089999481774,new audited execution
+m_2.0,protected_ns,20423027,84.81481481481481,0.5540032999952018,new audited execution
+m_2.0,protected_ns,20423028,70.38123167155426,0.781403699994371,new audited execution
+m_2.0,protected_ns,20423029,77.41935483870968,0.6446436999985963,new audited execution
+m_3.0,density,20423000,77.63713080168776,0.33416539999052475,new audited execution
+m_3.0,density,20423001,55.43859649122807,0.2689230000050884,new audited execution
+m_3.0,density,20423002,61.74242424242424,0.3553306000012526,new audited execution
+m_3.0,density,20423003,72.98387096774194,0.3327841000009357,new audited execution
+m_3.0,density,20423004,56.53409090909091,0.5407116000033056,new audited execution
+m_3.0,density,20423005,71.01449275362319,0.1999279999972714,new audited execution
+m_3.0,density,20423006,71.23287671232876,0.3305214000001797,new audited execution
+m_3.0,density,20423007,76.79324894514767,0.2526817000034498,new audited execution
+m_3.0,density,20423008,64.68646864686468,0.5546615999937785,new audited execution
+m_3.0,density,20423009,58.55263157894737,0.8078888000000006,new audited execution
+m_3.0,density,20423010,59.65909090909091,0.5777576000018598,new audited execution
+m_3.0,density,20423011,75.64102564102564,0.30421909999495256,new audited execution
+m_3.0,density,20423012,65.28662420382165,0.5813514000001305,new audited execution
+m_3.0,density,20423013,66.24605678233438,0.6146051999994597,new audited execution
+m_3.0,density,20423014,62.10526315789474,0.37291280000226834,new audited execution
+m_3.0,density,20423015,56.417112299465245,0.6826974000032351,new audited execution
+m_3.0,density,20423016,75.45454545454545,0.23690529999839782,new audited execution
+m_3.0,density,20423017,69.54732510288066,0.3296245999990788,new audited execution
+m_3.0,density,20423018,56.09756097560976,0.6390387000019473,new audited execution
+m_3.0,density,20423019,58.862876254180605,0.39520749999883265,new audited execution
+m_3.0,density,20423020,63.38028169014085,0.46196179999788,new audited execution
+m_3.0,density,20423021,63.46863468634686,0.33745659999840427,new audited execution
+m_3.0,density,20423022,75.74468085106383,0.29298820000440173,new audited execution
+m_3.0,density,20423023,79.70297029702971,0.2708117000056518,new audited execution
+m_3.0,density,20423024,58.415841584158414,0.47135050000269985,new audited execution
+m_3.0,density,20423025,84.8314606741573,0.2383540000018911,new audited execution
+m_3.0,density,20423026,69.15254237288136,0.4243163000091954,new audited execution
+m_3.0,density,20423027,65.55555555555556,0.4432085000016741,new audited execution
+m_3.0,density,20423028,52.19941348973607,0.6854737000039677,new audited execution
+m_3.0,density,20423029,60.483870967741936,0.5933862000174486,new audited execution
+m_3.0,protected_ns,20423000,77.63713080168776,0.368989499995223,new audited execution
+m_3.0,protected_ns,20423001,55.43859649122807,0.33498469999722147,new audited execution
+m_3.0,protected_ns,20423002,62.5,0.41953409999860014,new audited execution
+m_3.0,protected_ns,20423003,72.17741935483872,0.41375579999021284,new audited execution
+m_3.0,protected_ns,20423004,56.53409090909091,0.6625550999997358,new audited execution
+m_3.0,protected_ns,20423005,67.14975845410628,0.24488580000434013,new audited execution
+m_3.0,protected_ns,20423006,68.4931506849315,0.43786520000230666,new audited execution
+m_3.0,protected_ns,20423007,76.79324894514767,0.21991480000451702,new audited execution
+m_3.0,protected_ns,20423008,64.68646864686468,0.5878598000062993,new audited execution
+m_3.0,protected_ns,20423009,58.55263157894737,0.8060398000025089,new audited execution
+m_3.0,protected_ns,20423010,59.94318181818182,0.7014615000043705,new audited execution
+m_3.0,protected_ns,20423011,75.64102564102564,0.3533854999923278,new audited execution
+m_3.0,protected_ns,20423012,65.28662420382165,0.5234956999984206,new audited execution
+m_3.0,protected_ns,20423013,66.24605678233438,0.7204410000013013,new audited execution
+m_3.0,protected_ns,20423014,62.10526315789474,0.3633373000020583,new audited execution
+m_3.0,protected_ns,20423015,56.951871657754005,0.7587509000104546,new audited execution
+m_3.0,protected_ns,20423016,75.45454545454545,0.21337099999800557,new audited execution
+m_3.0,protected_ns,20423017,69.54732510288066,0.31532879999940633,new audited execution
+m_3.0,protected_ns,20423018,57.45257452574526,0.5646677999948224,new audited execution
+m_3.0,protected_ns,20423019,58.862876254180605,0.4320069000032163,new audited execution
+m_3.0,protected_ns,20423020,64.43661971830986,0.6083477000001949,new audited execution
+m_3.0,protected_ns,20423021,63.46863468634686,0.32920459999968443,new audited execution
+m_3.0,protected_ns,20423022,75.74468085106383,0.2939804000016011,new audited execution
+m_3.0,protected_ns,20423023,79.70297029702971,0.30605869999999413,new audited execution
+m_3.0,protected_ns,20423024,58.415841584158414,0.5067409000057523,new audited execution
+m_3.0,protected_ns,20423025,84.8314606741573,0.2133789999916189,new audited execution
+m_3.0,protected_ns,20423026,69.15254237288136,0.4819264999987354,new audited execution
+m_3.0,protected_ns,20423027,65.55555555555556,0.5038073999976405,new audited execution
+m_3.0,protected_ns,20423028,52.19941348973607,0.7470174999934898,new audited execution
+m_3.0,protected_ns,20423029,60.483870967741936,0.6612388000030478,new audited execution
+tighter_deadlines,density,20423000,78.05907172995781,0.26456979999238683,new audited execution
+tighter_deadlines,density,20423001,63.50877192982456,0.22033370000372088,new audited execution
+tighter_deadlines,density,20423002,66.28787878787878,0.2145065000077011,new audited execution
+tighter_deadlines,density,20423003,60.88709677419355,0.17312879999644792,new audited execution
+tighter_deadlines,density,20423004,67.61363636363636,0.40445110000473505,new audited execution
+tighter_deadlines,density,20423005,75.36231884057972,0.14733229999637842,new audited execution
+tighter_deadlines,density,20423006,68.4931506849315,0.2534431000049153,new audited execution
+tighter_deadlines,density,20423007,71.30801687763713,0.13906670000142185,new audited execution
+tighter_deadlines,density,20423008,71.94719471947195,0.43025630000374804,new audited execution
+tighter_deadlines,density,20423009,62.82894736842105,0.40232480000759097,new audited execution
+tighter_deadlines,density,20423010,60.22727272727273,0.30892230000335985,new audited execution
+tighter_deadlines,density,20423011,82.90598290598291,0.1573158000028343,new audited execution
+tighter_deadlines,density,20423012,69.10828025477707,0.249520899995332,new audited execution
+tighter_deadlines,density,20423013,69.71608832807571,0.3742716999959157,new audited execution
+tighter_deadlines,density,20423014,56.14035087719298,0.18793989999448968,new audited execution
+tighter_deadlines,density,20423015,62.03208556149733,0.46066209999389685,new audited execution
+tighter_deadlines,density,20423016,70.0,0.14040339999428397,new audited execution
+tighter_deadlines,density,20423017,62.96296296296296,0.21539629999460885,new audited execution
+tighter_deadlines,density,20423018,69.37669376693766,0.4137059999975463,new audited execution
+tighter_deadlines,density,20423019,60.535117056856194,0.29627580000669695,new audited execution
+tighter_deadlines,density,20423020,67.95774647887323,0.4228023000059693,new audited execution
+tighter_deadlines,density,20423021,61.99261992619927,0.2109751000052711,new audited execution
+tighter_deadlines,density,20423022,72.3404255319149,0.23430089999965276,new audited execution
+tighter_deadlines,density,20423023,77.22772277227723,0.18580439999459486,new audited execution
+tighter_deadlines,density,20423024,70.95709570957096,0.28261070000462496,new audited execution
+tighter_deadlines,density,20423025,74.15730337078652,0.16497160000108124,new audited execution
+tighter_deadlines,density,20423026,66.77966101694915,0.23250839999309392,new audited execution
+tighter_deadlines,density,20423027,75.55555555555556,0.2641181999961191,new audited execution
+tighter_deadlines,density,20423028,59.2375366568915,0.42228439999689726,new audited execution
+tighter_deadlines,density,20423029,65.86021505376344,0.3349112999958379,new audited execution
+tighter_deadlines,protected_ns,20423000,78.05907172995781,0.18688970000039262,new audited execution
+tighter_deadlines,protected_ns,20423001,63.50877192982456,0.15147100000376668,new audited execution
+tighter_deadlines,protected_ns,20423002,67.8030303030303,0.17795299999943381,new audited execution
+tighter_deadlines,protected_ns,20423003,60.88709677419355,0.1272860999988552,new audited execution
+tighter_deadlines,protected_ns,20423004,67.04545454545455,0.39362930000879714,new audited execution
+tighter_deadlines,protected_ns,20423005,75.36231884057972,0.12624859999596083,new audited execution
+tighter_deadlines,protected_ns,20423006,68.4931506849315,0.19721990000289225,new audited execution
+tighter_deadlines,protected_ns,20423007,70.46413502109705,0.0973727999971743,new audited execution
+tighter_deadlines,protected_ns,20423008,72.27722772277228,0.29952579999280715,new audited execution
+tighter_deadlines,protected_ns,20423009,62.5,0.3485754999965138,new audited execution
+tighter_deadlines,protected_ns,20423010,60.22727272727273,0.19924530000389495,new audited execution
+tighter_deadlines,protected_ns,20423011,82.90598290598291,0.13061680000555498,new audited execution
+tighter_deadlines,protected_ns,20423012,68.78980891719745,0.20887969999785128,new audited execution
+tighter_deadlines,protected_ns,20423013,69.71608832807571,0.33041120000234514,new audited execution
+tighter_deadlines,protected_ns,20423014,56.14035087719298,0.1611038999972152,new audited execution
+tighter_deadlines,protected_ns,20423015,62.299465240641716,0.31940870000653376,new audited execution
+tighter_deadlines,protected_ns,20423016,70.0,0.1132586000030642,new audited execution
+tighter_deadlines,protected_ns,20423017,62.96296296296296,0.14459920000172133,new audited execution
+tighter_deadlines,protected_ns,20423018,69.10569105691057,0.37108079999507027,new audited execution
+tighter_deadlines,protected_ns,20423019,60.535117056856194,0.27667289999953937,new audited execution
+tighter_deadlines,protected_ns,20423020,67.95774647887323,0.23705699999391072,new audited execution
+tighter_deadlines,protected_ns,20423021,61.99261992619927,0.19839620000584546,new audited execution
+tighter_deadlines,protected_ns,20423022,72.3404255319149,0.13368200000149955,new audited execution
+tighter_deadlines,protected_ns,20423023,77.22772277227723,0.12531669999498263,new audited execution
+tighter_deadlines,protected_ns,20423024,70.95709570957096,0.16519630000493635,new audited execution
+tighter_deadlines,protected_ns,20423025,74.15730337078652,0.0833984000100827,new audited execution
+tighter_deadlines,protected_ns,20423026,66.77966101694915,0.2051744999953371,new audited execution
+tighter_deadlines,protected_ns,20423027,75.55555555555556,0.249421399997118,new audited execution
+tighter_deadlines,protected_ns,20423028,58.94428152492669,0.3961675999998988,new audited execution
+tighter_deadlines,protected_ns,20423029,65.86021505376344,0.287693199999012,new audited execution
+coupled_primary,rosr,20423000,98.7342,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423001,92.9825,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423002,97.7273,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423003,99.5968,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423004,84.6591,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423005,100.0,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423006,98.1735,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423007,99.5781,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423008,91.0891,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423009,84.8684,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423010,91.4773,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423011,100.0,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423012,94.586,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423013,92.429,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423014,91.5789,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423015,86.0963,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423016,98.1818,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423017,94.6502,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423018,85.3659,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423019,91.6388,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423020,89.7887,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423021,92.9889,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423022,100.0,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423023,100.0,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423024,89.4389,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423025,100.0,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423026,94.2373,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423027,96.2963,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423028,83.2845,,"retained grid CSV, four decimal percent"
+coupled_primary,rosr,20423029,88.9785,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423000,84.3882,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423001,67.0175,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423002,73.4848,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423003,81.8548,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423004,63.6364,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423005,80.6763,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423006,82.6484,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423007,82.2785,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423008,70.9571,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423009,65.1316,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423010,69.3182,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423011,84.6154,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423012,73.5669,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423013,74.4479,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423014,72.9825,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423015,64.7059,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423016,82.2727,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423017,77.7778,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423018,64.2276,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423019,66.2207,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423020,71.831,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423021,71.9557,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423022,83.4043,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423023,86.1386,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423024,68.6469,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423025,89.8876,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423026,74.5763,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423027,75.1852,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423028,61.8768,,"retained grid CSV, four decimal percent"
+edge_dominant,rosr,20423029,68.8172,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423000,77.2152,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423001,63.5088,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423002,68.1818,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423003,60.8871,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423004,69.3182,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423005,75.3623,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423006,70.7763,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423007,72.5738,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423008,74.9175,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423009,62.5,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423010,60.2273,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423011,82.4786,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423012,65.9236,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423013,71.2934,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423014,61.4035,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423015,63.6364,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423016,72.2727,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423017,62.963,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423018,69.9187,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423019,63.2107,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423020,67.9577,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423021,62.7306,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423022,70.2128,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423023,79.2079,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423024,73.9274,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423025,74.1573,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423026,68.8136,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423027,76.2963,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423028,58.0645,,"retained grid CSV, four decimal percent"
+tighter_deadlines,rosr,20423029,70.4301,,"retained grid CSV, four decimal percent"
+hefei_coupled_primary,rosr,20480000,90.0,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480001,94.37229437229438,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480002,88.80597014925374,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480003,92.65306122448979,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480004,95.65217391304348,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480005,88.64468864468864,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480006,79.66101694915254,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480007,94.77611940298507,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480008,95.25423728813558,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480009,87.78135048231512,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480010,95.97069597069597,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480011,100.0,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480012,94.11764705882352,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480013,91.88191881918819,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480014,85.02024291497976,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480015,87.76223776223776,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480016,91.90031152647975,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480017,98.5576923076923,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480018,96.875,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480019,85.24590163934425,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480020,86.81948424068769,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480021,93.57142857142857,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480022,91.75257731958763,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480023,85.46511627906976,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480024,89.26174496644296,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480025,92.46031746031747,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480026,89.78328173374614,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480027,91.869918699187,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480028,96.69421487603306,,retained fingerprinted Hefei episodes CSV
+hefei_coupled_primary,rosr,20480029,88.08664259927798,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480000,71.66666666666667,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480001,75.75757575757575,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480002,71.26865671641791,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480003,75.51020408163265,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480004,75.36231884057972,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480005,67.76556776556777,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480006,62.42937853107344,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480007,72.38805970149254,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480008,72.20338983050848,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480009,68.16720257234726,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480010,78.02197802197803,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480011,78.80184331797236,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480012,79.04411764705883,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480013,73.06273062730627,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480014,71.65991902834008,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480015,69.58041958041959,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480016,69.78193146417445,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480017,85.09615384615384,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480018,77.34375,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480019,60.983606557377044,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480020,71.34670487106017,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480021,76.07142857142857,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480022,72.85223367697594,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480023,70.63953488372093,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480024,68.79194630872483,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480025,73.01587301587301,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480026,68.42105263157895,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480027,68.29268292682927,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480028,77.68595041322314,,retained fingerprinted Hefei episodes CSV
+hefei_edge_dominant,rosr,20480029,70.7581227436823,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480000,55.41666666666667,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480001,69.26406926406926,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480002,60.447761194029844,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480003,49.795918367346935,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480004,63.76811594202898,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480005,49.81684981684982,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480006,53.672316384180796,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480007,57.08955223880597,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480008,67.11864406779661,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480009,55.62700964630225,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480010,61.904761904761905,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480011,64.0552995391705,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480012,54.41176470588235,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480013,53.874538745387454,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480014,57.48987854251012,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480015,59.44055944055944,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480016,57.009345794392516,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480017,61.057692307692314,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480018,52.34375,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480019,47.21311475409836,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480020,59.02578796561605,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480021,56.42857142857143,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480022,66.32302405498281,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480023,55.23255813953488,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480024,54.69798657718121,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480025,64.68253968253968,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480026,45.51083591331269,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480027,60.16260162601627,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480028,69.42148760330579,,retained fingerprinted Hefei episodes CSV
+hefei_tighter_deadlines,rosr,20480029,56.317689530685925,,retained fingerprinted Hefei episodes CSV

@@ -1,0 +1,29 @@
+{
+  "protocol": "hefei-osm-static-roads-v1",
+  "purpose": "Compare current frozen policy and controls on a real directed road topology with synthetic task streams.",
+  "network": {
+    "location": "Hefei, China",
+    "grid_south_west": [31.815, 117.225],
+    "grid_north_east": [31.842, 117.255],
+    "sampling": "100 grid positions snapped to distinct nearest nodes in the largest strongly connected drivable component",
+    "source": "OpenStreetMap contributors, ODbL-1.0",
+    "travel": "directed shortest-path road length divided by 300 metres per abstract distance unit and the vehicle's generated speed",
+    "travel_interpretation": "fixed synthetic per-vehicle speed, equivalent to 27-45 km/h; no traffic, turns or signal delays",
+    "network_scope": "OSMnx drive filter; static network; 0.01-degree routing buffer; fixed snapshot in data"
+  },
+  "profiles": ["coupled_primary", "edge_dominant", "tighter_deadlines"],
+  "methods": ["rosr", "e2e_resource_density", "joint_lns", "coalition_value", "lit_dpso"],
+  "pilot_seeds": [20480900, 20480901],
+  "confirmation_seed_start": 20480000,
+  "confirmation_seed_end": 20480029,
+  "instances_per_profile": 30,
+  "fleet_size": 8,
+  "uplink": "fixed upload delay, as in the primary reference contract",
+  "planning_budget_seconds": 0.1,
+  "method_order": "rotated deterministically by seed and profile; one fresh policy and environment per method",
+  "primary_metric": "on-time completed value / released value, paired by seed and profile",
+  "secondary_metrics": ["count completion", "uncaptured loss", "downstream loss", "wasted acquisition minutes", "planning seconds and event latencies"],
+  "uncertainty": "two-sided, unadjusted paired Student t 95% intervals; wins/ties/losses use the exact integer completed values",
+  "audit": "frozen resource checks and independently recomputed NetworkX road-distance action checks; store raw event and task traces",
+  "note": "Pilot is limited to implementation checks; the comparison block is independent of pilot seeds and will be reported regardless of sign. Cells sharing a seed are related."
+}

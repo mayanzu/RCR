@@ -1,0 +1,3 @@
+# Historical result summaries
+
+This folder contains only the five retained per-stream CSV summaries from the earlier manuscript archive. Their SHA-256 values match the associated historical manifest. The manifest describes a larger historical package; its other referenced files are not all included here. Original per-event logs and original experiment-source fingerprints were not recovered for these historical grids, as recorded in `../../analysis/reanalysis_metadata.json`. The CSV files are sufficient for the included statistical reanalysis but do not themselves prove a repeat of the original runs.

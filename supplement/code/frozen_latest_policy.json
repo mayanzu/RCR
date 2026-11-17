@@ -1,0 +1,26 @@
+{
+  "source_sha256": "3895c88cee3506669c4d396fdee1c56f181f6f1da5cb2a768ced7f908e71023d",
+  "version": "release_conflict_continuation_2026-10-25",
+  "revision": "lit_fallback_network_decode",
+  "beta": 0.25,
+  "max_depth": 3,
+  "seconds": 0.1,
+  "compact_ties": true,
+  "conflict_cuts": true,
+  "uplink_slot": 0.025,
+  "uplink_rate": 1.0,
+  "solver_threads": 1,
+  "targeted_tests": 77,
+  "entrypoint_sha256": {
+    "run_rosr.py": "f7a08fe286a94af59bcdff38e02a9a0e12cbfbffd46748ecf428c3961a8c067c",
+    "run_rosr_bench.py": "87668dd00025b55db058a2721b6ad715c5f0ffb4a49161c85f4beb472e9da6af",
+    "run_model_bench.py": "b0c40de6cacc3713ea73317af87c8f4335ddc9b119a225663dcc3118013f5e93",
+    "run_scale.py": "1b2f0bbab27196d4462f0de2d5264e171eedbe9a3ef11acefb0a51686a41c09e",
+    "value_coalition.py": "eaa84b3c612cd58e453d414e64abbb3ce7476481c97c47a0678074eb32b59469",
+    "lit_dpso.py": "94aac0b9746e216d940fadc9d9d55af22651207df3c47ed84576303802e291ea",
+    "lit_lyapunov.py": "f89aaba2df30997ad1db082b09d5e4e24187bb209d84cd4c6ff3a2da5f136eb1"
+  },
+  "protocol_sha256": "c089a95bbc7bb4ef80a581946eb28734e674bfedb46c884e432310f79543804a",
+  "packaged_at_utc": "2026-10-26T08:11:39.706750+00:00",
+  "validation_scope": "77 mechanism tests; lit control fallback decode dispatched to the shared network-aware density under reserved-slot snapshots (reference-contract behavior unchanged); route-pool/urgency/slack switches remain default-off experimental entries"
+}

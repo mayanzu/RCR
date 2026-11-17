@@ -1,0 +1,40 @@
+{
+  "grid_bbox_lon_lat": {
+    "west": 117.225,
+    "east": 117.255,
+    "south": 31.815,
+    "north": 31.842
+  },
+  "query_bbox_s_w_n_e": [
+    31.805,
+    117.21499999999999,
+    31.852,
+    117.265
+  ],
+  "grid_points": 100,
+  "coordinate_system": "EPSG:32650",
+  "distance_unit_m": 300.0,
+  "original_nodes": 4396,
+  "original_directed_edges": 6109,
+  "component_nodes": 3113,
+  "component_directed_edges": 4710,
+  "unique_snapped_nodes": 100,
+  "snap_m_median": 77.47869112861915,
+  "snap_m_max": 192.09119907768977,
+  "road_distance_m_median": 2731.605144570096,
+  "road_distance_m_p90": 4206.58207165556,
+  "max_shortest_path_disagreement_m": 0.0,
+  "max_triangle_violation_m": 4.547473508864641e-12,
+  "max_directional_asymmetry_m": 2879.730587724688,
+  "graphml_sha256": "122d27d281ae050cd27c2d8b8dd3f456aa46afae2776224482a06e71d7ce2c99",
+  "matrix_sha256": "bb1d90d2f1281ef7e14c14e5f0f5b1227910a76c17e99822909d0f5b209bbc8c",
+  "audit_matrix_sha256": "bb1d90d2f1281ef7e14c14e5f0f5b1227910a76c17e99822909d0f5b209bbc8c",
+  "anchors_sha256": "213462bfb1c214f2d85934db320506fd32f4c4239d5c4b0877d5cac7517184ec",
+  "raw_osm_sha256": "c0ceb5927d021e03893eec4cb94efadac31c4942c26e74bf2b8f5881bfd81668",
+  "filtered_osm_sha256": "6e1c62864adb6f11b9ec7943c4936ee7bcad5e9b87a26006ff91ca08a8fa8331",
+  "drive_filter": "[\"highway\"][\"area\"!~\"yes\"][\"access\"!~\"private\"][\"highway\"!~\"abandoned|bridleway|bus_guideway|construction|corridor|cycleway|elevator|escalator|footway|no|path|pedestrian|planned|platform|proposed|raceway|razed|rest_area|service|services|steps|track\"][\"motor_vehicle\"!~\"no\"][\"motorcar\"!~\"no\"][\"service\"!~\"alley|driveway|emergency_access|parking|parking_aisle|private\"]",
+  "osmnx_version": "2.1.1",
+  "networkx_version": "3.6.1",
+  "numpy_version": "2.4.6",
+  "note": "Static road lengths and constant per-vehicle speeds; no live traffic or turn-delay calibration."
+}
